@@ -1,0 +1,14 @@
+[
+    {
+        "title": "1 asi",
+        "realImage": "paris/Maleheaderpins.jpg",
+        "description": "Metallist pinnid seadmete ühendamiseks.",
+        "classes": "comparison-container content"
+    },
+    {
+        "title": "2 asi",
+        "realImage": "paris/Potentiometer.png",
+        "description": "Description",
+        "classes": "comparison-container"
+    }
+]
