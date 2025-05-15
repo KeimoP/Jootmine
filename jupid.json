@@ -1,0 +1,56 @@
+[
+    {
+        "classes": "comparison-block",
+        "title": "Juhtme ring",
+        "realImage": "jupid/ringtehtud.jpg",
+        "description": "Juhtemetest kokku joodetud ring."
+    },
+    {
+        "classes": "comparison-block",
+        "title": "470μF 6.3V Kondensaator",
+        "realImage": "jupid/470uf6.3V.jpg",
+        "description": "Elektrolüütkondensaator toitefiltri ja signaalide silumiseks madalpinge vooluringides."
+    },
+    {
+        "classes": "comparison-block",
+        "title": "820μF 2.5V NCC Kondensaator",
+        "realImage": "jupid/820UF2.5VNCCPSC.jpg",
+        "description": "Väikese pingega suure mahutavusega kondensaator, sobib tiheda paigutusega trükkplaatidele."
+    },
+    {
+        "classes": "comparison-block",
+        "title": "Induktiivpool BRC-1U 81.8µH 10A",
+        "realImage": "jupid/BRC-1U81.8µH10A.jpg",
+        "description": "Kõrge voolutaluvusega induktiivpool, kasutatakse filtreerimiseks ja energiatalletamiseks."
+    },
+    {
+        "classes": "comparison-block",
+        "title": "Nupp",
+        "realImage": "jupid/button.jpg",
+        "description": "Tavaline surve- või lülitusnupp, mida kasutatakse kasutajaliidese sisendina."
+    },
+    {
+        "classes": "comparison-block",
+        "title": "Kaardiserva pistik 3.96mm 8 pin",
+        "realImage": "jupid/CardEdgeConnector3.96mmPitch8P.jpg",
+        "description": "Pistik, mis ühendab trükkplaadi servad teiste moodulitega – tüüpiline laienduskaartide ühendus."
+    },
+    {
+        "classes": "comparison-block",
+        "title": "Patareihoidja",
+        "realImage": "jupid/patareihoidja.jpg",
+        "description": "Patarei pesa, mis võimaldab lihtsat patarei vahetust trükkplaadil."
+    },
+    {
+        "classes": "comparison-block",
+        "title": "PHU97NQ MOSFET",
+        "realImage": "jupid/PHU97NQ.jpg",
+        "description": "MOSFET transistor, mida kasutatakse võimendamiseks ja lülitamiseks kõrgsagedusrakendustes."
+    },
+    {
+        "classes": "comparison-block",
+        "title": "Kvartsresonaator SR Passives",
+        "realImage": "jupid/SRPassivesquartzcrystals.jpg",
+        "description": "Kvartsresonaator täpse taktsageduse tagamiseks mikrokontrollerites ja kellasüsteemides."
+    }
+]

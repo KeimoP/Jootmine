@@ -1,0 +1,74 @@
+[
+    {
+        "classes": "comparison-block",
+        "title": "Emaplaadi hoidja",
+        "realImage": "vahendid/emaplaadi hoidja.jpg",
+        "description": "Tööriist, mis hoiab emaplaati kindlalt paigal jootmise või remontimise ajal."
+    },
+    {
+        "classes": "comparison-block",
+        "title": "Jootejaam",
+        "realImage": "vahendid/jootejaam.jpg",
+        "description": "Temperatuuri reguleeritav jootejaam täpseks elektroonikatööks."
+    },
+    {
+        "classes": "comparison-block",
+        "title": "Jootmisalus",
+        "realImage": "vahendid/jootmisalus.jpg",
+        "description": "Alus, mis kaitseb tööpinda jootmise ajal ja aitab hoida tööriistu korras."
+    },
+    {
+        "classes": "comparison-block",
+        "title": "Juhtmeklemmide avaja",
+        "realImage": "vahendid/Juhtmeklemmideavaja.jpg",
+        "description": "Spetsiaalne tööriist klemmide eemaldamiseks juhtmetelt vigastusteta."
+    },
+    {
+        "classes": "comparison-block",
+        "title": "Käsn",
+        "realImage": "vahendid/kasn.jpg",
+        "description": "Niisutatud käsn, mida kasutatakse jootekolvi otsa puhastamiseks töö käigus."
+    },
+    {
+        "classes": "comparison-block",
+        "title": "Lõiketangid",
+        "realImage": "vahendid/loiketangid.jpg",
+        "description": "Täpseks juhtmete ja komponentide jupitamiseks mõeldud lõiketangid."
+    },
+    {
+        "classes": "comparison-block",
+        "title": "Luup",
+        "realImage": "vahendid/luup.jpg",
+        "description": "Suurendusklaas, mis aitab näha väikseid detaile ja komponente selgemalt."
+    },
+    {
+        "classes": "comparison-block",
+        "title": "Pinsetid",
+        "realImage": "vahendid/pinsetid.jpg",
+        "description": "Peened tööriistad väikeste komponentide hoidmiseks ja paigutamiseks."
+    },
+    {
+        "classes": "comparison-block",
+        "title": "Tangid",
+        "realImage": "vahendid/tangid.jpg",
+        "description": "Mitmeotstarbelised tangid juhtmete väänamiseks, hoidmiseks ja lõikamiseks."
+    },
+    {
+        "classes": "comparison-block",
+        "title": "Tina",
+        "realImage": "vahendid/tina.jpg",
+        "description": "Jootetina elektriliste ühenduste loomiseks komponentide vahel."
+    },
+    {
+        "classes": "comparison-block",
+        "title": "Tinasukk",
+        "realImage": "vahendid/tinasukk.jpg",
+        "description": "Vasepõhine lindi moodi materjal tina eemaldamiseks jootekohtadelt."
+    },
+    {
+        "classes": "comparison-block",
+        "title": "Vakuumpump",
+        "realImage": "vahendid/Vacuumpump.jpg",
+        "description": "Tinatõmbur, mis eemaldab liigse jootetina komponentide eemaldamisel."
+    }
+]

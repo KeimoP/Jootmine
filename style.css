@@ -5,7 +5,11 @@ body {
   #43a2f0 30%, 
   #e7c0f3 100%
 ) !important;
-  
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  text-align: center;
+  padding-top: 70px;
+}
 .comparison-container {
   margin-bottom: 40px;
 }
