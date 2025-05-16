@@ -39,82 +39,11 @@
         <hr>
         <div id="comparisons-container" class="row g-4"></div>
     </div>
-
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-            fetch('vahendid.json')
-                .then(response => response.json())
-                .then(data => {
-                    const container = document.getElementById('comparisons-container');
-
-                    data.forEach((item, index) => {
-                        const comparisonHTML = `
-                            <div class="${item.classes}">
-                                <div class="row">
-                                    <div class="h2 text-center">
-                                        <p>${item.title}</p>
-                                    </div>
-                                    <div class="col-md-4"></div>
-                                    <div class="col-md-4">
-                                        <div class="img-fluid">
-                                            <img width="100%" src="${item.realImage}" alt="Real photo">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4"></div>
-                                </div>
-                                <div class="description text-center">
-                                    <p>${item.description}</p>
-                                </div>
-                            </div>
-                            <hr>
-                        `;
-                        container.insertAdjacentHTML('beforeend', comparisonHTML);
-                    });
-                })
-                .catch(error => console.error('Error loading comparisons:', error));
-        });
-    </script>
     <div class="container py-4 text-white">
         <h2 id="Eemaldatud" class="text-center mb-4">Eemaldatud jupid</h2>
         <hr>
         <div id="juppide-container" class="row g-4"></div>
     </div>
-    <script>
-            document.addEventListener('DOMContentLoaded', function () {
-                fetch('jupid.json')
-                    .then(response => response.json())
-                    .then(data => {
-                        const container = document.getElementById('juppide-container');
-
-                        data.forEach((item, index) => {
-                            const comparisonHTML = `
-                            <div class="${item.classes}">
-                                <div class="row">
-                                    <div class="h2 text-center">
-                                        <p>${item.title}</p>
-                                    </div>
-                                    <div class="col-md-4"></div>
-                                    <div class="col-md-4">
-                                        <div class="img-fluid">
-                                            <img width="100%" src="${item.realImage}" alt="Real photo">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4"></div>
-                                </div>
-                                <div class="description text-center">
-                                    <p>${item.description}</p>
-                                </div>
-                            </div>
-                            <hr>
-                        `;
-                            container.insertAdjacentHTML('beforeend', comparisonHTML);
-                        });
-                    })
-                    .catch(error => console.error('Error loading comparisons:', error));
-            });
-        </script>
-
-
     <script src='https://threejs.org/examples/js/libs/stats.min.js'></script>
     <script src="./script.js"></script>
     <!-- Bootstrap JS and Popper.js -->
